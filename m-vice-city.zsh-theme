@@ -1,5 +1,5 @@
 ## Heavily influenced by oh-my-zsh half life theme 
-https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/half-life.zsh-theme
+# https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/half-life.zsh-theme
 
 # prompt style and colors based on Steve Losh's Prose theme:
 # https://github.com/sjl/oh-my-zsh/blob/master/themes/prose.zsh-theme
